@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Mar 24 10:42:50 2018
-
-@author: Sravani1
-"""
-
 import predict_match
 import imp
 
